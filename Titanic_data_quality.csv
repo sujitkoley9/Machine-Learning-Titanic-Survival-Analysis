@@ -1,0 +1,13 @@
+,data types,Missing Values,Present Values,Unique Values,Minimum Values,Maximum Values
+Age,float64,263,1046,98,0.17,80.0
+Cabin,object,1014,295,186,0.0,0.0
+Embarked,object,2,1307,3,0.0,0.0
+Fare,float64,1,1308,281,0.0,512.3292
+Name,object,0,1309,1307,0.0,0.0
+Parch,int64,0,1309,8,0.0,9.0
+PassengerId,int64,0,1309,1309,1.0,1309.0
+Pclass,int64,0,1309,3,1.0,3.0
+Sex,object,0,1309,2,0.0,0.0
+SibSp,int64,0,1309,7,0.0,8.0
+Survived,float64,418,891,2,0.0,1.0
+Ticket,object,0,1309,929,0.0,0.0
